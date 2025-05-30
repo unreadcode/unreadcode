@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I'm a software developer
 - 🌏 &nbsp; I come from Changsha, China
-- 💼 &nbsp; A phper
+- 💼 &nbsp; A phper & Gopher
 - 📫 &nbsp; [i@unreadcode.com](mailto:i@unreadcode.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -19,21 +19,22 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Uniapp](https://img.shields.io/badge/-Uniapp-333333?style=flat&logo=uniapp)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Gitee](https://img.shields.io/badge/-Gitee-333333?style=flat&logo=gitee)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=phpstorm)
+  ![Goland](https://img.shields.io/badge/-Goland-333333?style=flat&logo=goland)
   ![HbuildX](https://img.shields.io/badge/-HbuildX-333333?style=flat&logo=hbuildx)
 
 <br/>
